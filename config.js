@@ -1,7 +1,7 @@
 const config = {
   "meta": {
     "pageTitle": "Win $1,000 Calgary Stampede Experience – For Couples & Women 35+",
-    "navBrandLogoText": "Eric Palin",
+    "navBrandLogoText": "Shania Twain Giveaway",
     "privacyPolicyLink": ""
   },
   "giveaway": {
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750352754914_0",
+      "id": "q_auto_1750352797718_0",
       "questionText": "Which of the following best describes your interest in iconic cultural events?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750352754914_1",
+      "id": "q_auto_1750352797718_1",
       "questionText": "How would you describe your music entertainment preferences?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750352754914_2",
+      "id": "q_auto_1750352797718_2",
       "questionText": "When planning a special outing, which of the following best describes your approach?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750352754914_3",
+      "id": "q_auto_1750352797718_3",
       "questionText": "Which of these best describes your interaction with brands on social media?",
       "options": [
         {
@@ -280,6 +280,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-329",
     "netlifyUrl": "http://Giveaway-329.netlify.app",
     "netlifyId": "1005014455",
-    "tag": "Calgary Stampede Experience 2025"
+    "tag": "Shania Twain Giveaway"
   }
 };
