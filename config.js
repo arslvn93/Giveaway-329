@@ -38,7 +38,7 @@ const config = {
         "alt": "Excited couple enjoying Calgary Stampede fireworks"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/p8rf21yaqsrm80cqh4ht6m9kg8.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/n4a7ez91y1rme0cqh4kvp1fw5r.jpg",
         "alt": "Group of women celebrating at Stampede concert"
       },
       {
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750352543347_0",
+      "id": "q_auto_1750352754914_0",
       "questionText": "Which of the following best describes your interest in iconic cultural events?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750352543347_1",
+      "id": "q_auto_1750352754914_1",
       "questionText": "How would you describe your music entertainment preferences?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750352543347_2",
+      "id": "q_auto_1750352754914_2",
       "questionText": "When planning a special outing, which of the following best describes your approach?",
       "options": [
         {
@@ -231,7 +231,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750352543347_3",
+      "id": "q_auto_1750352754914_3",
       "questionText": "Which of these best describes your interaction with brands on social media?",
       "options": [
         {
