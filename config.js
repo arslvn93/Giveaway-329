@@ -1,196 +1,188 @@
 const config = {
   "modalQuestions": [
     {
-      "id": "agent_status",
-      "questionText": "Are you currently exploring homes with a real estate agent?",
+      "id": "passion_for_events",
+      "questionText": "Which of the following best describes your interest in iconic cultural events?",
       "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+        { "value": "regular_attendee", "text": "I regularly attend events like the Calgary Stampede." },
+        { "value": "want_to_experience", "text": "I’ve always wanted to experience globally recognized events." },
+        { "value": "local_fairs", "text": "I prefer local fairs and festivals." },
+        { "value": "not_attending", "text": "I don't usually attend cultural events." }
       ]
     },
     {
-      "id": "interest_level",
-      "questionText": "How interested are you in properties like this?",
+      "id": "music_entertainment",
+      "questionText": "How would you describe your music entertainment preferences?",
       "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
+        { "value": "live_concerts", "text": "I enjoy live concerts and follow artists like Shania Twain." },
+        { "value": "home_concerts", "text": "I appreciate music but prefer watching concerts at home." },
+        { "value": "not_big_fan", "text": "I’m not a big fan of concerts but enjoy other entertainment." },
+        { "value": "other_hobbies", "text": "I focus more on other hobbies than music." }
       ]
     },
     {
-      "id": "neighborhood_engagement",
-      "questionText": "How do you usually enjoy the neighborhood?",
+      "id": "lifestyle_social_activities",
+      "questionText": "When planning a special outing, which of the following best describes your approach?",
       "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
+        { "value": "plan_around_events", "text": "I plan around major event dates, like those in July." },
+        { "value": "social_activities", "text": "I look for activities that provide social or couple experiences." },
+        { "value": "spontaneous", "text": "I prefer spontaneous adventures without fixed schedules." },
+        { "value": "stay_home", "text": "I rarely plan special outings and prefer staying at home." }
       ]
     },
     {
-      "id": "feature_attraction",
-      "questionText": "What feature attracted you to this home?",
+      "id": "social_media_engagement",
+      "questionText": "Which of these best describes your interaction with brands on social media?",
       "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
+        { "value": "active_follower", "text": "I actively follow and engage with brands' giveaways and promotions." },
+        { "value": "passive_follower", "text": "I follow brands but rarely participate in events or giveaways." },
+        { "value": "interest_based", "text": "I prefer engaging with content that aligns with my interests, like cultural events." },
+        { "value": "no_interaction", "text": "I do not interact with brands on social media." }
       ]
     }
   ],
- "giveaway": {
-    "name": "Burger Jabs Feast",
-    "heroHeadline": "Win a <span class='highlight'>$100 Burger Feast</span> at Burger Jabs!",
-    "heroSubheadline": "Enter for a chance to indulge in a $100 meal at Burger Jabs—where family, flavor, and community come together!",
-    "promotionDates": "Promotion runs from May 9, 2025 until June 9, 2025.",
-    "endDate": "2025-07-09T23:59:59",
-    "heroBackgroundImageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1990&q=80",
-    "heroCtaText": "Enter Now for a Feast!",
-    "entryFormCtaText": "Count Me In!",
-    "successModalHeaderText": "🎉 You're In! 🎉",
-    "successModalMainMessage": "Your entry for the <strong>Burger Jabs $100 Feast Giveaway</strong> has been successfully submitted. Best of luck!",
-    "successModalEmailPrompt": "We'll announce the winner via email after the draw date. Keep an eye on your inbox!"
+  "giveaway": {
+    "name": "Calgary Stampede Experience 2025",
+    "heroHeadline": "Win a <span class='highlight'>$1,000 Calgary Stampede Night Out</span> for Couples & Women 35+!",
+    "heroSubheadline": "Celebrate the Stampede with an unforgettable evening – Shania Twain is in town! Limited-time entry. Winner drawn July 4th. Mark your calendar for July 5th.",
+    "promotionDates": "Entry open June 20 to July 4, 2025. Winner announced July 4.",
+    "endDate": "2025-07-04T23:59:59",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/neert7csnxrma0cqh2a843rt7c.jpg",
+    "heroCtaText": "Enter to Win Now!",
+    "entryFormCtaText": "Enter to Win My Stampede Night!",
+    "successModalHeaderText": "You’re Entered!",
+    "successModalMainMessage": "Your spot for the <strong>Calgary Stampede $1,000 Night Out</strong> is locked in! Winner will be drawn and notified by email on July 4. Good luck!",
+    "successModalEmailPrompt": "Watch your email July 4th—we’ll reach out fast if you win!"
   },
   "prize": {
-    "name": "Burger Jabs $100 Family Feast Voucher",
-    "value": "$100 Value",
-    "description": "Get ready to treat your family (or yourself!) to an unforgettable meal. You're entering for a chance to win a $100 gift voucher to enjoy juicy burgers, crispy fries, refreshing drinks, and more at Burger Jabs—the newest local hotspot that brings community and incredible flavor together under one roof.",
+    "name": "Calgary Stampede Celebration Experience",
+    "value": "$1,000+ Value",
+    "description": "Get ready for an amazing night at the Calgary Stampede. This prize is just for women 35+ and couples who want to make fun memories together. Shania Twain is part of the fun this year, making this a true once-in-a-lifetime event! Enjoy food, music, and the Stampede spirit with everything you need covered. This is a grown-up night you will never forget.",
     "images": [
       {
-        "src": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
-        "alt": "Delicious Burger Combo"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/v3j5p6z3tsrmc0cqh2a9cp61ng.jpg",
+        "alt": "Excited couple enjoying Calgary Stampede fireworks"
       },
       {
-        "src": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
-        "alt": "Another view of burgers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/pafsqv1211rmc0cqh2avv9h5km.jpg",
+        "alt": "Group of women celebrating at Stampede concert"
       },
       {
-        "src": "https://images.unsplash.com/photo-1550317138-10000687a72b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-        "alt": "Fries and Burger"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/s9mggv33rxrm80cqh2atj7a3ac.jpg",
+        "alt": "Shania Twain performing live at Stampede"
+      },
+      {
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/rtmy0mn6bdrma0cqh2arktb5am.jpg",
+        "alt": "Happy friends with festival food at Stampede"
       }
     ],
     "includedItems": [
-      { "icon": "fas fa-ticket-alt", "text": "Exclusive $100 gift voucher for anything on the menu" },
-      { "icon": "fas fa-users", "text": "Perfect for a family feast or a treat with friends" },
-      { "icon": "fas fa-store-alt", "text": "Support a fantastic local business: Burger Jabs" },
-      { "icon": "fas fa-check-circle", "text": "No purchase necessary to enter or win" },
-      { "icon": "fas fa-bolt", "text": "Quick and easy online entry!" }
+      { "icon": "fas fa-ticket-alt", "text": "Premium event or concert tickets to the Calgary Stampede" },
+      { "icon": "fas fa-user-friends", "text": "Special access for couples or women 35+" },
+      { "icon": "fas fa-music", "text": "See Shania Twain live with all the excitement!" },
+      { "icon": "fas fa-utensils", "text": "Food & drinks included for a full night out" },
+      { "icon": "fas fa-gift", "text": "Prize package worth $1,000 – all free for the winner!" }
     ],
-    "limitedTimeOfferText": "🎁 Limited Time Giveaway!",
-    "ctaButtonText": "I WANT TO WIN THIS!"
+    "limitedTimeOfferText": "Enter before July 4, 2025 – don’t miss out!",
+    "ctaButtonText": "Claim My Chance to Win!"
   },
-  "howToEnter": { //Do Not Change
-    "steps": [ //Do Not Change
+  "howToEnter": {
+    "steps": [
       {
-        "icon": "fas fa-keyboard",
-        "title": "Fill the Form",
-        "description": "Simply enter your name and email address in the form below. It takes less than 30 seconds!"//Do Not Change
+        "icon": "fas fa-edit",
+        "title": "Fill Out the Form",
+        "description": "Share your name and email below. Fast and easy!"
       },
       {
-        "icon": "fas fa-share-alt",
-        "title": "Share (Optional)",
-        "description": "Spread the word on social media using the links after you enter. (Sharing is caring, but not required for entry!)" //Do Not Change
+        "icon": "fas fa-calendar",
+        "title": "Save the Date",
+        "description": "Block July 5 or July 25 for your big Stampede night if you win!"
       },
       {
-        "icon": "fas fa-envelope-open-text",
-        "title": "Check Your Email",
-        "description": "We'll contact the winner via email. Make sure you enter a valid email address and check your spam folder too!" //Do Not Change
+        "icon": "fas fa-trophy",
+        "title": "Winner Gets Notified",
+        "description": "Winner’s name drawn July 4. We’ll send an email if it’s you!"
       }
     ],
     "highlights": [
-      { "icon": "fas fa-stopwatch", "text": "Quick & Easy Entry" },
-      { "icon": "fas fa-gift", "text": "Amazing $100 Prize" },
-      { "icon": "fas fa-smile", "text": "Free to Enter!" }
+      { "icon": "fas fa-clock", "text": "Fast 30-second entry" },
+      { "icon": "fas fa-gift", "text": "Totally free to enter" },
+      { "icon": "fas fa-users", "text": "Just for women and couples 35+" },
+      { "icon": "fas fa-music", "text": "Live music, food, fun" },
+      { "icon": "fas fa-random", "text": "Fair random winner pick" }
     ]
-  },
-  "entryForm": {
-    "subtitle": "Provide your details below for a chance to win this delicious prize!",
-    "entryCountText": "Over 500+ entries already! Don't miss out!",
-    "socialSharePrompt": "Tell your friends about this awesome giveaway:",
-    "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href),
-      "twitter": "https://twitter.com/intent/tweet?url=" + encodeURIComponent(window.location.href) + "&text=" + encodeURIComponent("Check out this amazing Burger Jabs giveaway!")
-    },
   },
   "rules": {
     "fairSelectionInfo": {
-      "title": "Fair & Square Selection",
-      "text": "Our winner selection process is completely random and unbiased, ensuring everyone has an equal chance. The draw will be conducted using a certified random number generator."
+      "title": "How We Choose the Winner",
+      "text": "Every person who enters gets an equal chance. We use a random drawing on July 4, 2025. No tricks, just luck!"
     },
     "importantNotice": {
-      "title": "Winner Notification - Check Your Email!",
-      "text": "The lucky winner will be contacted exclusively via the email address provided during entry. Please ensure your email is correct. We recommend checking your inbox, promotions tab, and spam/junk folder regularly after the giveaway concludes."
+      "title": "Mark Your Calendar!",
+      "text": "The fun happens on July 5 and July 25 during the Stampede. Be ready if you win!"
     },
     "faq": [
-      {
-        "q": "Who is eligible to enter?",
-        "a": "This giveaway is open to legal residents of [Your City/Region/Country] who are 18 years of age or older at the time of entry."
-      },
-      {
-        "q": "How long does the giveaway run?",
-        "a": "The giveaway starts on May 9, 2025, and all entries must be received by June 9, 2025, at 11:59 PM [Your Timezone]."
-      },
-      {
-        "q": "How will the winner be selected?",
-        "a": "One (1) winner will be selected in a random drawing from all eligible entries received during the promotion period."
-      },
-      {
-        "q": "When and how will the winner be notified?",
-        "a": "The potential winner will be notified by email on or about June 12, 2025. They will have [e.g., 48 hours] to respond and claim their prize."
-      },
-      {
-        "q": "How many times can I enter?",
-        "a": "Limit one (1) entry per person/email address during the entire promotion period. Duplicate entries will be disqualified."
-      },
-      {
-        "q": "Is my information secure?",
-        "a": "We respect your privacy. Your information will be used solely for the purpose of this giveaway and in accordance with our Privacy Policy. We do not sell your data."
-      }
+      { "q": "Who can enter this giveaway?", "a": "Any woman 35+ or couples around that age can enter. Must be 18+ and live near Calgary." },
+      { "q": "How will I know if I win?", "a": "We will email the winner on July 4, 2025. Watch your inbox and spam folder!" },
+      { "q": "What if I can’t use the prize dates?", "a": "Please only enter if you can go July 5 or July 25. The experience is only for these special Stampede nights." },
+      { "q": "Do I have to pay anything?", "a": "No! The entire event package is free for the winner. It’s our gift to you." }
     ],
     "tips": [
-      "Double-check your email address for typos before submitting.",
-      "Add our contact email (if provided in footer) to your address book to ensure you receive notifications.",
-      "Follow [Organizer Name] on social media for winner announcements (optional)."
+      "Triple-check your email address before submitting",
+      "Make sure you are available for July 5 or July 25",
+      "Invite your partner or friend to enter too",
+      "Follow Eric Palin on Instagram for updates and winner news",
+      "Share this page with friends who love Stampede fun"
     ]
   },
+  "entryForm": {
+    "subtitle": "Enter for your chance to win this $1,000 Calgary Stampede party for couples and women 35+!",
+    "entryCountText": "Dozens have entered – you could be the lucky winner!",
+    "socialSharePrompt": "Share this page and help someone else win a night to remember!",
+    "sharePlatforms": {
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href),
+      "twitter": "https://twitter.com/intent/tweet?url=" + encodeURIComponent(window.location.href) + "&text=" + encodeURIComponent("Join me in entering this $1,000 Calgary Stampede Night Out giveaway! #Stampede2025")
+    }
+  },
   "footerContact": {
-    "organizerName": "Burger Jabs Restaurant",
-    "organizerLogoUrl": "https://via.placeholder.com/200x60/FF7A00/4A3F35?text=Burger+Jabs",
-    "email": "hello@burgerjabs.com",
-    "phone": "(555) 123-BURGER",
-    "address": "123 Delicious Lane, Foodie Town, USA",
-    "brokerageName": "Burger Jabs Realty (Placeholder)",
-    "secondaryLogoUrl": "https://via.placeholder.com/100x50/eee/999?text=Secondary+Logo",
-    "secondaryLogoAlt": "Secondary Company Logo",
+    "organizerName": "Eric Palin",
+    "organizerLogoUrl": "",
+    "email": "eric.l.palin@gmail.com",
+    "phone": "403-559-6847",
+    "address": "",
+    "brokerageName": "",
+    "secondaryLogoUrl": "",
+    "secondaryLogoAlt": "",
     "social": {
-      "facebook": "https://via.placeholder.com/200x60/FF7A00/4A3F35?text=Burger+Jabs",
-      "instagram": "https://via.placeholder.com/200x60/FF7A00/4A3F35?text=Burger+Jabs"
+      "facebook": "https://www.facebook.com/share/1CWf7o8URQ/?mibextid=LQQJ4d",
+      "instagram": "https://instagram.com/@ericpalinyyc"
     },
     "agentContact": {
-      "name": "Jab Burger",
-      "title": "Chief Burger Officer",
-      "phone": "(555) JAB-MEAL",
-      "email": "jab@burgerjabs.com"
+      "name": "Eric Palin",
+      "title": "",
+      "phone": "403-559-6847",
+      "email": "eric.l.palin@gmail.com"
     },
-    "copyrightOwner": "Burger Jabs Co.",
-    "footerDisclaimer": "This is a placeholder for the important legal disclaimer text that will appear at the top of the footer."
+    "copyrightOwner": "Eric Palin",
+    "footerDisclaimer": "This giveaway is operated by Eric Palin and is not affiliated with Calgary Stampede or Shania Twain. No purchase needed. Winner chosen at random July 4, 2025. Must be 18+ and Calgary-area resident to enter."
   },
   "meta": {
-    "pageTitle": "Burger Jabs $100 Feast Giveaway!",
-    "navBrandLogoText": "Burger Jabs",
-    "privacyPolicyLink": "",
+    "pageTitle": "Win $1,000 Calgary Stampede Experience – For Couples & Women 35+",
+    "navBrandLogoText": "Eric Palin",
+    "privacyPolicyLink": ""
   },
   "settings": {
     "ghlWebhookUrl": "",
-    "theme": "light",
+    "theme": "dark",
     "primaryColorOverride": "",
     "confettiColors": ["#FF7A00", "#FFC107", "#4CAF50", "#FFFFFF", "#FFF5E6"],
     "showCountdownInHero": true
   },
   "deploymentInfo": {
-    "repoName": "openhouse",
-    "repoUrl": "https://github.com/arslvn93/openhouse",
-    "tag": "Open House 168 Abbey",
-    "netlifyUrl": "https://openhousetester.netlify.app/",
-    "netlifyId": "547dc1ef-2c83-4d08-815f-344d40fc3ca2"
+    "repoName": "Giveaway-329",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-329",
+    "tag": "Calgary Stampede Experience 2025",
+    "netlifyUrl": "http://Giveaway-329.netlify.app",
+    "netlifyId": "1005014455"
   }
 };
