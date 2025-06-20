@@ -57,7 +57,7 @@ const config = {
       },
       {
         "icon": "fas fa-user-friends",
-        "text": "Special access for couples or women 35+"
+        "text": "Special access for couples or women"
       },
       {
         "icon": "fas fa-music",
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750456954303_0",
+      "id": "q_auto_1750456963778_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750456954303_1",
+      "id": "q_auto_1750456963778_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750456954303_2",
+      "id": "q_auto_1750456963778_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
