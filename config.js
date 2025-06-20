@@ -1,11 +1,11 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $1,000 Calgary Stampede Experience – For Couples & Women 35+",
+    "pageTitle": "Win $1,000 Calgary Stampede Experience – For Couples & Women ",
     "navBrandLogoText": "Shania Twain Giveaway",
     "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>$1,000 Calgary Stampede Night Out</span> for Couples & Women 35+!",
+    "heroHeadline": "Win a <span class='highlight'>$1,000 Calgary Stampede Night Out</span> for Couples & Women who want to have a fun night out!",
     "heroSubheadline": "Celebrate the Stampede with an unforgettable evening – Shania Twain is in town! Limited-time entry. Winner drawn July 4th. Mark your calendar for July 5th.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/neert7csnxrma0cqh2a843rt7c.jpg",
     "promotionDates": "Entry open June 20 to July 4, 2025. Winner announced July 4.",
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445747139_0",
+      "id": "q_auto_1750456919546_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445747139_1",
+      "id": "q_auto_1750456919546_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445747139_2",
+      "id": "q_auto_1750456919546_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
