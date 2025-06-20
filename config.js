@@ -53,7 +53,7 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-ticket-alt",
-        "text": "Premium event or concert tickets to the Calgary Stampede"
+        "text": "Premium event & concert tickets to the Calgary Stampede"
       },
       {
         "icon": "fas fa-user-friends",
@@ -74,7 +74,7 @@ const config = {
     ],
     "name": "Calgary Stampede Celebration Experience",
     "value": "$1,000+ Value",
-    "description": "Get ready for an amazing night at the Calgary Stampede. This prize is just for women 35+ and couples who want to make fun memories together. Shania Twain is part of the fun this year, making this a true once-in-a-lifetime event! Enjoy food, music, and the Stampede spirit with everything you need covered. This is a grown-up night you will never forget.",
+    "description": "Get ready for an amazing night at the Calgary Stampede. This prize is just for girls night and couples who want to make fun memories together. Shania Twain is part of the fun this year, making this a true once-in-a-lifetime event! Enjoy food, music, and the Stampede spirit with everything you need covered. This is a grown-up night you will never forget.",
     "limitedTimeOfferText": "Enter before July 4, 2025 – don’t miss out!",
     "ctaButtonText": "Claim My Chance to Win!"
   },
@@ -165,7 +165,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750456919546_0",
+      "id": "q_auto_1750456954303_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -187,7 +187,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750456919546_1",
+      "id": "q_auto_1750456954303_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -209,7 +209,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750456919546_2",
+      "id": "q_auto_1750456954303_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
