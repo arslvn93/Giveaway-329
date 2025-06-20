@@ -165,90 +165,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750443830368_0",
-      "questionText": "Which of the following best describes your interest in iconic cultural events?",
+      "id": "q_auto_1750445747139_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "I regularly attend events like the Calgary Stampede.",
-          "text": "I regularly attend events like the Calgary Stampede."
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "I’ve always wanted to experience globally recognized events.",
-          "text": "I’ve always wanted to experience globally recognized events."
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "I prefer local fairs and festivals.",
-          "text": "I prefer local fairs and festivals."
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "I don't usually attend cultural events.",
-          "text": "I don't usually attend cultural events."
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1750443830368_1",
-      "questionText": "How would you describe your music entertainment preferences?",
+      "id": "q_auto_1750445747139_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "I enjoy live concerts and follow artists like Shania Twain.",
-          "text": "I enjoy live concerts and follow artists like Shania Twain."
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "I appreciate music but prefer watching concerts at home.",
-          "text": "I appreciate music but prefer watching concerts at home."
+          "value": "Yes, in the next 1–2 years",
+          "text": "Yes, in the next 1–2 years"
         },
         {
-          "value": "I’m not a big fan of concerts but enjoy other entertainment.",
-          "text": "I’m not a big fan of concerts but enjoy other entertainment."
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "I focus more on other hobbies than music.",
-          "text": "I focus more on other hobbies than music."
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1750443830368_2",
-      "questionText": "When planning a special outing, which of the following best describes your approach?",
+      "id": "q_auto_1750445747139_2",
+      "questionText": "What’s your current housing situation?",
       "options": [
         {
-          "value": "I plan around major event dates, like those in July.",
-          "text": "I plan around major event dates, like those in July."
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "I look for activities that provide social or couple experiences.",
-          "text": "I look for activities that provide social or couple experiences."
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "I prefer spontaneous adventures without fixed schedules.",
-          "text": "I prefer spontaneous adventures without fixed schedules."
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "I rarely plan special outings and prefer staying at home.",
-          "text": "I rarely plan special outings and prefer staying at home."
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1750443830368_3",
-      "questionText": "Which of these best describes your interaction with brands on social media?",
-      "options": [
-        {
-          "value": "I actively follow and engage with brands' giveaways and promotions.",
-          "text": "I actively follow and engage with brands' giveaways and promotions."
-        },
-        {
-          "value": "I follow brands but rarely participate in events or giveaways.",
-          "text": "I follow brands but rarely participate in events or giveaways."
-        },
-        {
-          "value": "I prefer engaging with content that aligns with my interests, like cultural events.",
-          "text": "I prefer engaging with content that aligns with my interests, like cultural events."
-        },
-        {
-          "value": "I do not interact with brands on social media.",
-          "text": "I do not interact with brands on social media."
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
