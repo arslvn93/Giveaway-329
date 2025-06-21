@@ -29,7 +29,16 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/7scWGgbFGaynda0AcmnU/webhook-trigger/WUWH4v2s1B57RmXr1ZwT",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
+    "facebookPixelId": "1057475448873422",
+    "salesGeniusAppApi": "",
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "🎉 ONE MORE STEP",
+    "mainMessage": "Your spot for the <strong>Calgary Stampede $1,000 Night Out</strong> is almost locked in! You've made it to the final step of our giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
+    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
   },
   "prize": {
     "images": [
