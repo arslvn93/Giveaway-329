@@ -5,7 +5,7 @@ const config = {
     "privacyPolicyLink": ""
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>$1,000 Calgary Stampede Night Out</span> for Couples & Women who want to have a fun night out!",
+    "heroHeadline": "Win a <span class='highlight'>$1,000 Calgary Stampede Night Out</span> for Couples & Anyone who wants a LEGENDARY experience!",
     "heroSubheadline": "Celebrate the Stampede with an unforgettable evening – Shania Twain is in town! Limited-time entry. Winner drawn July 4th. Mark your calendar for July 5th.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/neert7csnxrma0cqh2a843rt7c.jpg",
     "promotionDates": "Entry open June 20 to July 4, 2025. Winner announced July 4.",
@@ -29,16 +29,10 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/7scWGgbFGaynda0AcmnU/webhook-trigger/WUWH4v2s1B57RmXr1ZwT",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Calgary Stampede $1,000 Night Out</strong> is almost locked in! You've made it to the final step of our giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -174,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750457460694_0",
+      "id": "q_auto_1750884818471_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -196,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750457460694_1",
+      "id": "q_auto_1750884818471_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -218,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750457460694_2",
+      "id": "q_auto_1750884818471_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -240,6 +234,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "🎉 ONE MORE STEP",
+    "mainMessage": "Your spot for the <strong>Calgary Stampede $1,000 Night Out</strong> is almost locked in! You've made it to the final step of our giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
+    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/share/1CWf7o8URQ/?mibextid=LQQJ4d",
