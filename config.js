@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win $1,000 Calgary Stampede Experience – For Couples & Women ",
     "navBrandLogoText": "Shania Twain Giveaway",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://www.remax.com/privacy-notice"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$1,000 Calgary Stampede Night Out</span> for Couples & Anyone who wants a LEGENDARY experience!",
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750963207734_0",
+      "id": "q_auto_1750963308251_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750963207734_1",
+      "id": "q_auto_1750963308251_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750963207734_2",
+      "id": "q_auto_1750963308251_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -258,12 +258,12 @@ const config = {
       "email": "eric.l.palin@gmail.com"
     },
     "footerDisclaimer": "This giveaway is operated by Eric Palin and is not affiliated with Calgary Stampede or Shania Twain. No purchase needed. Winner chosen at random July 4, 2025. Must be 18+ and Calgary-area resident to enter.",
-    "organizerLogoUrl": "",
+    "organizerLogoUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.remaxcommercial.com%2Fsingle-office%2F68328%2Fre-max-house-of-real-estate%2F&psig=AOvVaw3NDe98HPWl-nQq_ehVEtgW&ust=1751049639325000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODa-a_ej44DFQAAAAAdAAAAABAE",
     "secondaryLogoUrl": "",
     "secondaryLogoAlt": "",
     "organizerName": "Eric Palin",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "RE/MAX House of Real Estate",
+    "address": "4034 16 St SW, Calgary, AB ",
     "email": "eric.l.palin@gmail.com",
     "phone": "403-559-6847",
     "copyrightOwner": "Eric Palin"
