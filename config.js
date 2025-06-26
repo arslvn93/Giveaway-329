@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750963507490_0",
+      "id": "q_auto_1750963518371_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750963507490_1",
+      "id": "q_auto_1750963518371_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750963507490_2",
+      "id": "q_auto_1750963518371_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -266,7 +266,7 @@ const config = {
     "address": "4034 16 St SW, Calgary, AB ",
     "email": "eric.l.palin@gmail.com",
     "phone": "403-559-6847",
-    "copyrightOwner": "Eric Palin"
+    "copyrightOwner": "Re/Max Real Estate"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-329",
