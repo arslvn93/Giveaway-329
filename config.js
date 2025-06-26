@@ -126,7 +126,7 @@ const config = {
     "faq": [
       {
         "q": "Who can enter this giveaway?",
-        "a": "Any woman 35+ or couples around that age can enter. Must be 18+ and live near Calgary."
+        "a": "Any women or couples around that age can enter. Must be 18+ and live near Calgary."
       },
       {
         "q": "How will I know if I win?",
@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750884818471_0",
+      "id": "q_auto_1750963171002_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750884818471_1",
+      "id": "q_auto_1750963171002_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750884818471_2",
+      "id": "q_auto_1750963171002_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
