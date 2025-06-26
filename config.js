@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750963661071_0",
+      "id": "q_auto_1750963718817_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750963661071_1",
+      "id": "q_auto_1750963718817_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750963661071_2",
+      "id": "q_auto_1750963718817_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -258,8 +258,8 @@ const config = {
       "email": "eric.l.palin@gmail.com"
     },
     "footerDisclaimer": "This giveaway is operated by Eric Palin and is not affiliated with Calgary Stampede or Shania Twain. No purchase needed. Winner chosen at random July 4, 2025. Must be 18+ and Calgary-area resident to enter.",
-    "organizerLogoUrl": "https://papiphotos.remax-im.com/Person/102096352/MainPhoto_cropped/MainPhoto_cropped.jpg",
-    "secondaryLogoUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.remaxcommercial.com%2Fsingle-office%2F68328%2Fre-max-house-of-real-estate%2F&psig=AOvVaw3NDe98HPWl-nQq_ehVEtgW&ust=1751049639325000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODa-a_ej44DFQAAAAAdAAAAABAE",
+    "organizerLogoUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.remaxcommercial.com%2Fsingle-office%2F68328%2Fre-max-house-of-real-estate%2F&psig=AOvVaw3NDe98HPWl-nQq_ehVEtgW&ust=1751049639325000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODa-a_ej44DFQAAAAAdAAAAABAE",
+    "secondaryLogoUrl": "https://papiphotos.remax-im.com/Person/102096352/MainPhoto_cropped/MainPhoto_cropped.jpg",
     "secondaryLogoAlt": "",
     "organizerName": "Eric Palin",
     "brokerageName": "RE/MAX House of Real Estate",
