@@ -168,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750963823307_0",
+      "id": "q_auto_1751030711473_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -190,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750963823307_1",
+      "id": "q_auto_1751030711473_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -212,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750963823307_2",
+      "id": "q_auto_1751030711473_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -249,7 +249,7 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/share/1CWf7o8URQ/?mibextid=LQQJ4d",
-      "instagram": "https://instagram.com/@ericpalinyyc"
+      "instagram": "https://instagram.com/ericpalinyyc"
     },
     "agentContact": {
       "name": "Eric Palin",
